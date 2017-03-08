@@ -1,0 +1,9 @@
+D:\testWorkspace\windowsService\SetTimeLimitOnUser\bin\Debug\SetTimeLimitOnUser.exe.config
+D:\testWorkspace\windowsService\SetTimeLimitOnUser\bin\Debug\SetTimeLimitOnUser.exe
+D:\testWorkspace\windowsService\SetTimeLimitOnUser\bin\Debug\SetTimeLimitOnUser.pdb
+D:\testWorkspace\windowsService\SetTimeLimitOnUser\obj\Debug\SetTimeLimitOnUser.csprojResolveAssemblyReference.cache
+D:\testWorkspace\windowsService\SetTimeLimitOnUser\obj\Debug\SetTimeLimitOnUser.ProjectInstaller.resources
+D:\testWorkspace\windowsService\SetTimeLimitOnUser\obj\Debug\SetTimeLimitOnUser.SetTimeLimitOnUser.resources
+D:\testWorkspace\windowsService\SetTimeLimitOnUser\obj\Debug\SetTimeLimitOnUser.csproj.GenerateResource.Cache
+D:\testWorkspace\windowsService\SetTimeLimitOnUser\obj\Debug\SetTimeLimitOnUser.exe
+D:\testWorkspace\windowsService\SetTimeLimitOnUser\obj\Debug\SetTimeLimitOnUser.pdb
